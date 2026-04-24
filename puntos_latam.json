@@ -1,0 +1,440 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "buenaventura-colombia",
+        "name": "Buenaventura, Colombia",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0403008760841,
+          3.883674880769303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "boca-raton-fl-united-states",
+        "name": "Boca Raton, FL, United States",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08894373592818,
+          26.350323169523403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "valparaso-chile",
+        "name": "Valparaíso, Chile",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62048049678572,
+          -33.045765558769304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lurin-peru",
+        "name": "Lurin, Peru",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87428536869109,
+          -12.278527239265857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rio-de-janeiro-brazil",
+        "name": "Rio de Janeiro, Brazil",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.209563123346165,
+          -22.90339400756494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "santos-brazil",
+        "name": "Santos, Brazil",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.32806677354495,
+          -23.961845467703107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "las-toninas-argentina",
+        "name": "Las Toninas, Argentina",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.695491069788275,
+          -36.47252952471871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fort-amador-panama",
+        "name": "Fort Amador, Panama",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.54673220597367,
+          8.934109660849998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "san-juan-pr-united-states",
+        "name": "San Juan, PR, United States",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.10666604344867,
+          18.465839112933374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "arica-chile",
+        "name": "Arica, Chile",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30671189622174,
+          -18.473810108334412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-san-jose-guatemala",
+        "name": "Puerto San Jose, Guatemala",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.82221860307868,
+          13.93461171167569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "punta-cana-dominican-republic",
+        "name": "Punta Cana, Dominican Republic",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.43825618860332,
+          18.621279512611874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-plata-dominican-republic",
+        "name": "Puerto Plata, Dominican Republic",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6912331081983,
+          19.79934388457018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-barrios-guatemala",
+        "name": "Puerto Barrios, Guatemala",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59723848982233,
+          15.727143540875408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "salvador-brazil",
+        "name": "Salvador, Brazil",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.504537159555746,
+          -12.969985149046327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jacksonville-fl-united-states",
+        "name": "Jacksonville, FL, United States",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65573950099538,
+          30.33176074674755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hollywood-fl-united-states",
+        "name": "Hollywood, FL, United States",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.160161,
+          26.010495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "st-croix-virgin-islands-virgin-islands-u-s-",
+        "name": "St. Croix, Virgin Islands, Virgin Islands (U.S.)",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8194110959771,
+          17.77186426252591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fortaleza-brazil",
+        "name": "Fortaleza, Brazil",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54297900000012,
+          -3.718537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-limon-costa-rica",
+        "name": "Puerto Limon, Costa Rica",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.037697,
+          9.988570000000225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "barranquilla-colombia",
+        "name": "Barranquilla, Colombia",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77975560247559,
+          10.94046235659719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "coln-panama",
+        "name": "Colón, Panama",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90002785413272,
+          9.3537196548148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cartagena-colombia",
+        "name": "Cartagena, Colombia",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50568282259698,
+          10.386695392812182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puerto-viejo-venezuela",
+        "name": "Puerto Viejo, Venezuela",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.02995640500605,
+          10.611204913055875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "punta-carnero-ecuador",
+        "name": "Punta Carnero, Ecuador",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.91443143239492,
+          -2.272915471022624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mancora-peru",
+        "name": "Mancora, Peru",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0537868024245,
+          -4.1540461191663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cristbal-panama",
+        "name": "Cristóbal, Panama",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90280507171931,
+          9.350855245143212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "salinas-ecuador",
+        "name": "Salinas, Ecuador",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.00906207423138,
+          -2.228488012519777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "schooner-bight-colombia",
+        "name": "Schooner Bight, Colombia",
+        "is_tbd": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73000254138753,
+          12.551128558504994
+        ]
+      }
+    }
+  ]
+}
